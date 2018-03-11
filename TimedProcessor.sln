@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tigrinum.TimedProcessor", "TimedProcessor\Tigrinum.TimedProcessor.csproj", "{20AA0AA8-8B40-4842-B9FC-4C467AFDA27D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tigrinum.TimedProcessor.UnitTests", "TimedProcessor.UnitTests\Tigrinum.TimedProcessor.UnitTests.csproj", "{4D722D00-EE4F-4DEB-9F87-1E65A557ADE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AA0AA8-8B40-4842-B9FC-4C467AFDA27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AA0AA8-8B40-4842-B9FC-4C467AFDA27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AA0AA8-8B40-4842-B9FC-4C467AFDA27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AA0AA8-8B40-4842-B9FC-4C467AFDA27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D722D00-EE4F-4DEB-9F87-1E65A557ADE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D722D00-EE4F-4DEB-9F87-1E65A557ADE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D722D00-EE4F-4DEB-9F87-1E65A557ADE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D722D00-EE4F-4DEB-9F87-1E65A557ADE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F192F720-5B1E-443C-9749-695D2681E856}
+	EndGlobalSection
+EndGlobal
